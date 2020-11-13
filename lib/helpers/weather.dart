@@ -1,5 +1,5 @@
-import 'package:flutter_devfest3/helpers/constants.dart';
-import 'package:flutter_devfest3/helpers/fetch.dart';
+import 'constants.dart';
+import 'fetch.dart';
 
 const weatherMapURL = "https://api.openweathermap.org/data/2.5/weather";
 
